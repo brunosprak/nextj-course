@@ -1,6 +1,10 @@
+
 const AllEventsPage = () => {
+
+    
+
     return <div>
-        <h1>all events</h1>
+        <ul></ul>
     </div>
 }
 
