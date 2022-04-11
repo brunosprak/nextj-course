@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+   node:
+      tty: true
+      container_name: nextjs_course
+      image: node:16.14.2-alpine3.14
+#      restart: always
